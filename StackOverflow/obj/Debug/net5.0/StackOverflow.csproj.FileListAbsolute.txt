@@ -1,0 +1,16 @@
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.AssemblyInfo.cs
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.exe
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.deps.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.runtimeconfig.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\ref\StackOverflow.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\bin\Debug\net5.0\StackOverflow.pdb
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\ref\StackOverflow.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.pdb
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\StackOverflow\obj\Debug\net5.0\StackOverflow.genruntimeconfig.cache

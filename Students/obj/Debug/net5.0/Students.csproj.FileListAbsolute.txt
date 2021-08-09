@@ -1,0 +1,16 @@
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.exe
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.deps.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.runtimeconfig.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\ref\Students.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\bin\Debug\net5.0\Students.pdb
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.AssemblyInfo.cs
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\ref\Students.dll
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.pdb
+C:\Users\jorda\source\repos\dotNet\Csharp-OOP\Students\obj\Debug\net5.0\Students.genruntimeconfig.cache
